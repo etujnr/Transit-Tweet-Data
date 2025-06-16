@@ -8,4 +8,4 @@
 
 This dataset is suitable for research in NLP, sentiment analysis, social behavior, and urban mobility.
 
-**Recommended Citation:** Etu, E.E., Agrawal, A.W., Larot, J., Tatipigari, C., Tenebe, I.T. (2025). Learning about Transit Passenger Experience from Microblogging Posts. Transit Findings
+**Recommended Citation:** Etu, E.E., Agrawal, A.W., Larot, J., Tatipigari, C., Tenebe, I.T. (2025). Learning about Transit Passenger Experience from Microblogging Posts. Transport Findings
